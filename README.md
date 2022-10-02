@@ -4,7 +4,7 @@ This is a repository that contents all my solutions of the exercices in [ exerci
 
 ## Table of contents
 
-- [Lasagna](#overview)
+- [Lasagna](https://github.com/Sley530/Exercism-exercices/tree/main/Lasagna)
 
 ## Author
 
