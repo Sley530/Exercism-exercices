@@ -1,6 +1,6 @@
 # Exercism-exercices
 
-This is a repository that contents all the solution of the exercices in [ exercism ](https://exercism.org/). 
+This is a repository that contents all my solutions of the exercices in [ exercism ](https://exercism.org/). 
 
 ## Table of contents
 
