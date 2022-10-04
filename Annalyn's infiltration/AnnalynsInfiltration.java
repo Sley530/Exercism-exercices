@@ -142,6 +142,3 @@ class Main{
 	}	// end of main
 
 }	// end of Main
-
-
-
